@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {background: #09c40b; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -204,7 +204,7 @@ section:last-child {
 
 @media all and (max-width: 480px) {
 	.mainDetails {
-		padding: 25px 25px;
+		padding: 15px 15px;
 	}
 	
 	section {
