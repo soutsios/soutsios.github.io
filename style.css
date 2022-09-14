@@ -204,7 +204,7 @@ section:last-child {
 
 @media all and (max-width: 480px) {
 	.mainDetails {
-		padding: 15px 15px;
+		padding: 25px 25px;
 	}
 	
 	section {
