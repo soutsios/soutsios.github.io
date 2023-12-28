@@ -58,6 +58,10 @@ p {
 	padding: 0 40px;
 }
 
+#img {
+	border-radius: 50px;
+}
+
 #headshot {
 	width: 12.5%;
 	float: left;
