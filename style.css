@@ -58,8 +58,8 @@ p {
 	padding: 0 40px;
 }
 
-#img {
-	border-radius: 50px;
+img {
+	border-radius: 50%;
 }
 
 #headshot {
